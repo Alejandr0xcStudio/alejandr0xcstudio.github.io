@@ -1,8 +1,8 @@
 {
-  "build": 10,
-  "name": "1.0.9",
+  "build": 20,
+  "name": "1.0.20",
   "notes": {
-    "es": "Ranking mundial con jugadores reales, viajes entre regiones, menú nuevo, fumigar termitas a distancia y arreglos en la entrega de materiales.",
-    "en": "World ranking with real players, travel between regions, new menu, remote termite spraying and material delivery fixes."
+    "es": "Muchas mejoras y cambios.",
+    "en": "Fixes and changes."
   }
 }
