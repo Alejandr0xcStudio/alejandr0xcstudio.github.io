@@ -1,8 +1,8 @@
 {
-  "build": 20,
-  "name": "1.0.20",
+  "build": 38,
+  "name": "1.0.37",
   "notes": {
-    "es": "Muchas mejoras y cambios.",
-    "en": "Fixes and changes."
+    "es": "¡Lanzamiento oficial! Nuevas regiones: Pantano Brumoso y Volcán Ardiente, torneo semanal, noticias del día, obras del pueblo, mascotas con habilidad y notificaciones.",
+    "en": "Official launch! New regions: Misty Swamp and Burning Volcano, weekly tournament, daily news, town projects, pets with abilities and notifications."
   }
 }
